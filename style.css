@@ -1,0 +1,84 @@
+html {
+  margin: 0;
+  padding: 0;
+  background: #fcfbf7;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #1f1f1b;
+  font-family: Georgia, "Times New Roman", serif;
+}
+
+.page {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 72px 28px 96px;
+}
+
+.title-block {
+  text-align: center;
+  margin-bottom: 64px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 3rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.genre {
+  margin: 12px 0 20px;
+  font-size: 1.1rem;
+  font-style: italic;
+  color: #555248;
+}
+
+.cast {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.6;
+  color: #444238;
+}
+
+.play {
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+.stage {
+  margin: 0 0 36px;
+  font-style: italic;
+  color: #555248;
+}
+
+.speech {
+  margin-bottom: 26px;
+}
+
+.speaker {
+  margin-bottom: 3px;
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #2f2d27;
+}
+
+.direction {
+  margin: 0 0 4px;
+  font-style: italic;
+  color: #666256;
+}
+
+.speech p {
+  margin: 0;
+}
+
+.footer {
+  margin-top: 84px;
+  text-align: center;
+  font-size: 0.92rem;
+  color: #7e8d7c;
+}
